@@ -3,8 +3,7 @@
 Repository này là nơi để soạn thảo, lưu trữ, xuất bản nội dung cho website VCTIL.
 
 - Website link: https://viasm-ctil.github.io/VCTIL
-- 
-- Lưu trữ vấn đề kỹ thuật: https://github.com/VIASM-CTIL/vctil-editor/issues
+- Báo vấn đề kỹ thuật: https://github.com/VIASM-CTIL/vctil-editor/issues
 
 ## Admin đăng nhập
 1. Truy cập vào [trang admin](https://viasm-ctil.github.io/VCTIL/admin) https://viasm-ctil.github.io/VCTIL/admin
