@@ -8,7 +8,7 @@ backend:
 publich_mode: editorial_workflow
 
 media_folder: "assets/images/uploads"
-public_folder: "/VCTIL/assets/images/uploads"
+public_folder: "//VCTIL/assets/images/uploads"
 
 collections:
   - name: "posts"
